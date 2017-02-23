@@ -18,82 +18,82 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qgo-yo-YKM">
-                                <rect key="frame" x="102" y="20" width="60" height="60"/>
+                                <rect key="frame" x="82" y="20" width="60" height="60"/>
                                 <state key="normal" title="Button" image="number2.png"/>
                                 <connections>
                                     <action selector="Button2Action:" destination="BYZ-38-t0r" eventType="touchUpInside" id="TTU-DI-Ecg"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vfI-Gi-82I">
-                                <rect key="frame" x="253" y="20" width="60" height="60"/>
+                                <rect key="frame" x="233" y="20" width="60" height="60"/>
                                 <state key="normal" title="Button" image="number4.png"/>
                                 <connections>
                                     <action selector="Button4Action:" destination="BYZ-38-t0r" eventType="touchUpInside" id="5cd-xB-fB1"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Hnn-af-xWE">
-                                <rect key="frame" x="329" y="20" width="60" height="60"/>
+                                <rect key="frame" x="309" y="20" width="60" height="60"/>
                                 <state key="normal" title="Button" image="number5.png"/>
                                 <connections>
                                     <action selector="Button5Action:" destination="BYZ-38-t0r" eventType="touchUpInside" id="NS2-4Z-KFa"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aYh-94-Sqm">
-                                <rect key="frame" x="26" y="20" width="60" height="60"/>
+                                <rect key="frame" x="6" y="20" width="60" height="60"/>
                                 <state key="normal" title="Button" image="number1.png"/>
                                 <connections>
                                     <action selector="Button1Action:" destination="BYZ-38-t0r" eventType="touchUpInside" id="O7u-78-3nJ"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Mru-Gs-naJ">
-                                <rect key="frame" x="178" y="88" width="60" height="60"/>
+                                <rect key="frame" x="158" y="88" width="60" height="60"/>
                                 <state key="normal" title="Button" image="number8.png"/>
                                 <connections>
                                     <action selector="Button8Action:" destination="BYZ-38-t0r" eventType="touchUpInside" id="hgz-jR-RMQ"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="NoS-gD-dXc">
-                                <rect key="frame" x="102" y="88" width="60" height="60"/>
+                                <rect key="frame" x="82" y="88" width="60" height="60"/>
                                 <state key="normal" title="Button" image="number7.png"/>
                                 <connections>
                                     <action selector="Button7Action:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Dzb-OL-P7u"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FJd-hS-9fd">
-                                <rect key="frame" x="253" y="88" width="60" height="60"/>
+                                <rect key="frame" x="233" y="88" width="60" height="60"/>
                                 <state key="normal" title="Button" image="number9.png"/>
                                 <connections>
                                     <action selector="Button9Action:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Scf-IX-plo"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="f5Y-5W-CqT">
-                                <rect key="frame" x="329" y="88" width="60" height="60"/>
+                                <rect key="frame" x="309" y="88" width="60" height="60"/>
                                 <state key="normal" title="Button" image="number0.png"/>
                                 <connections>
                                     <action selector="Button0Action:" destination="BYZ-38-t0r" eventType="touchUpInside" id="qrI-80-1dR"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GWS-kH-1cV">
-                                <rect key="frame" x="26" y="88" width="60" height="60"/>
+                                <rect key="frame" x="6" y="88" width="60" height="60"/>
                                 <state key="normal" title="Button" image="number6.png"/>
                                 <connections>
                                     <action selector="Button6Action:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ajp-Gn-9qI"/>
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6OU-gh-cJ3">
-                                <rect key="frame" x="62" y="228" width="293" height="47"/>
+                                <rect key="frame" x="42" y="228" width="293" height="47"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="8 + 4 = ?" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DrK-Uf-5ha">
-                                <rect key="frame" x="26" y="156" width="363" height="64"/>
+                                <rect key="frame" x="6" y="156" width="363" height="64"/>
                                 <fontDescription key="fontDescription" name="MarkerFelt-Wide" family="Marker Felt" pointSize="47"/>
-                                <color key="textColor" red="1" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="textColor" red="1" green="1" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qv6-my-1EU">
-                                <rect key="frame" x="172" y="283" width="70" height="70"/>
+                                <rect key="frame" x="152" y="283" width="70" height="70"/>
                                 <state key="normal" title="NEXT" image="play_again.png">
                                     <color key="titleColor" red="0.0" green="0.0" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
@@ -102,44 +102,44 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ejr-77-DHo">
-                                <rect key="frame" x="178" y="20" width="60" height="60"/>
+                                <rect key="frame" x="158" y="20" width="60" height="60"/>
                                 <state key="normal" title="Button" image="number3.png"/>
                                 <connections>
                                     <action selector="Button3Action:" destination="BYZ-38-t0r" eventType="touchUpInside" id="QSc-e4-Xpq"/>
                                 </connections>
                             </button>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="plate_white.png" translatesAutoresizingMaskIntoConstraints="NO" id="VHA-5R-MJW">
-                                <rect key="frame" x="45" y="489" width="327" height="227"/>
+                                <rect key="frame" x="25" y="489" width="327" height="227"/>
                             </imageView>
                             <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="apple.png" translatesAutoresizingMaskIntoConstraints="NO" id="Iwo-xd-roC" customClass="DraggedImage" customModule="AdditionApp" customModuleProvider="target">
-                                <rect key="frame" x="67" y="549" width="50" height="50"/>
+                                <rect key="frame" x="47" y="549" width="50" height="50"/>
                             </imageView>
                             <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="apple.png" translatesAutoresizingMaskIntoConstraints="NO" id="0NO-lW-6ZM" customClass="DraggedImage" customModule="AdditionApp" customModuleProvider="target">
-                                <rect key="frame" x="120" y="533" width="50" height="50"/>
+                                <rect key="frame" x="100" y="533" width="50" height="50"/>
                             </imageView>
                             <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="apple.png" translatesAutoresizingMaskIntoConstraints="NO" id="NnB-5w-V5g" customClass="DraggedImage" customModule="AdditionApp" customModuleProvider="target">
-                                <rect key="frame" x="125" y="570" width="50" height="50"/>
+                                <rect key="frame" x="105" y="570" width="50" height="50"/>
                             </imageView>
                             <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="apple.png" translatesAutoresizingMaskIntoConstraints="NO" id="LXa-zF-JIl" customClass="DraggedImage" customModule="AdditionApp" customModuleProvider="target">
-                                <rect key="frame" x="170" y="533" width="50" height="50"/>
+                                <rect key="frame" x="150" y="533" width="50" height="50"/>
                             </imageView>
                             <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="apple.png" translatesAutoresizingMaskIntoConstraints="NO" id="0Aq-f0-Mba" customClass="DraggedImage" customModule="AdditionApp" customModuleProvider="target">
-                                <rect key="frame" x="172" y="578" width="50" height="50"/>
+                                <rect key="frame" x="152" y="578" width="50" height="50"/>
                             </imageView>
                             <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="apple.png" translatesAutoresizingMaskIntoConstraints="NO" id="idZ-Mb-WVN" customClass="DraggedImage" customModule="AdditionApp" customModuleProvider="target">
-                                <rect key="frame" x="213" y="556" width="50" height="50"/>
+                                <rect key="frame" x="193" y="556" width="50" height="50"/>
                             </imageView>
                             <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="apple.png" translatesAutoresizingMaskIntoConstraints="NO" id="X1S-aa-EbQ" customClass="DraggedImage" customModule="AdditionApp" customModuleProvider="target">
-                                <rect key="frame" x="258" y="570" width="50" height="50"/>
+                                <rect key="frame" x="238" y="570" width="50" height="50"/>
                             </imageView>
                             <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="apple.png" translatesAutoresizingMaskIntoConstraints="NO" id="Fcc-TD-RMU" customClass="DraggedImage" customModule="AdditionApp" customModuleProvider="target">
-                                <rect key="frame" x="258" y="533" width="50" height="50"/>
+                                <rect key="frame" x="238" y="533" width="50" height="50"/>
                             </imageView>
                             <imageView contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="apple.png" translatesAutoresizingMaskIntoConstraints="NO" id="zbt-mG-5DL" customClass="DraggedImage" customModule="AdditionApp" customModuleProvider="target">
-                                <rect key="frame" x="304" y="556" width="50" height="50"/>
+                                <rect key="frame" x="284" y="556" width="50" height="50"/>
                             </imageView>
                         </subviews>
-                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" red="0.0" green="0.0" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina55"/>
                     <connections>
@@ -177,53 +177,53 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="star_kids.png" translatesAutoresizingMaskIntoConstraints="NO" id="xs9-Zt-aWY">
-                                <rect key="frame" x="20" y="164" width="70" height="70"/>
+                                <rect key="frame" x="0.0" y="164" width="70" height="70"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="star_kids.png" translatesAutoresizingMaskIntoConstraints="NO" id="dpw-IB-3VW">
-                                <rect key="frame" x="340" y="319" width="39" height="37"/>
+                                <rect key="frame" x="320" y="319" width="39" height="37"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="star_kids.png" translatesAutoresizingMaskIntoConstraints="NO" id="K6H-JI-FBb">
-                                <rect key="frame" x="36" y="319" width="39" height="37"/>
+                                <rect key="frame" x="16" y="319" width="39" height="37"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="star_kids.png" translatesAutoresizingMaskIntoConstraints="NO" id="51w-PF-M0o">
-                                <rect key="frame" x="36" y="44" width="39" height="37"/>
+                                <rect key="frame" x="16" y="44" width="39" height="37"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="star_kids.png" translatesAutoresizingMaskIntoConstraints="NO" id="F5M-DE-xfQ">
-                                <rect key="frame" x="340" y="44" width="39" height="37"/>
+                                <rect key="frame" x="320" y="44" width="39" height="37"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="star_kids.png" translatesAutoresizingMaskIntoConstraints="NO" id="VUa-BF-gzf">
-                                <rect key="frame" x="324" y="164" width="70" height="70"/>
+                                <rect key="frame" x="304" y="164" width="70" height="70"/>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="WELL DONE!!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8bS-p7-0Qi">
-                                <rect key="frame" x="54" y="28" width="307" height="70"/>
+                                <rect key="frame" x="34" y="28" width="307" height="70"/>
                                 <fontDescription key="fontDescription" name="HoeflerText-Black" family="Hoefler Text" pointSize="24"/>
                                 <color key="textColor" red="1" green="1" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KJd-3n-8sn">
-                                <rect key="frame" x="144" y="294" width="126" height="126"/>
+                                <rect key="frame" x="124" y="294" width="126" height="126"/>
                                 <state key="normal" image="play_again.png"/>
                                 <connections>
                                     <segue destination="BYZ-38-t0r" kind="show" id="KwF-ej-d23"/>
                                 </connections>
                             </button>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="thumbs_up.png" translatesAutoresizingMaskIntoConstraints="NO" id="9CE-lU-xxj">
-                                <rect key="frame" x="144" y="532" width="126" height="92"/>
+                                <rect key="frame" x="124" y="532" width="126" height="92"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="star_kids.png" translatesAutoresizingMaskIntoConstraints="NO" id="3St-PH-bBx">
-                                <rect key="frame" x="37" y="439" width="36" height="39"/>
+                                <rect key="frame" x="17" y="439" width="36" height="39"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="star_kids.png" translatesAutoresizingMaskIntoConstraints="NO" id="7kJ-DU-7km">
-                                <rect key="frame" x="341" y="439" width="36" height="39"/>
+                                <rect key="frame" x="321" y="439" width="36" height="39"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="star_kids.png" translatesAutoresizingMaskIntoConstraints="NO" id="W6g-0z-5u1">
-                                <rect key="frame" x="20" y="554" width="70" height="70"/>
+                                <rect key="frame" x="0.0" y="554" width="70" height="70"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="star_kids.png" translatesAutoresizingMaskIntoConstraints="NO" id="Nds-8X-eJ6">
-                                <rect key="frame" x="324" y="554" width="70" height="70"/>
+                                <rect key="frame" x="304" y="554" width="70" height="70"/>
                             </imageView>
                         </subviews>
-                        <color key="backgroundColor" red="0.098039217289999994" green="0.098039217289999994" blue="0.098039217289999994" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.0" green="0.0" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina55"/>
                 </viewController>
@@ -244,26 +244,26 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="WRONG..." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YRL-3z-n2N">
-                                <rect key="frame" x="54" y="28" width="307" height="70"/>
+                                <rect key="frame" x="35" y="28" width="307" height="70"/>
                                 <fontDescription key="fontDescription" name="HoeflerText-Black" family="Hoefler Text" pointSize="24"/>
                                 <color key="textColor" red="1" green="1" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="KEEP GOING!!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="eg0-7T-vAQ">
-                                <rect key="frame" x="54" y="396" width="307" height="70"/>
+                                <rect key="frame" x="35" y="396" width="307" height="70"/>
                                 <fontDescription key="fontDescription" name="HoeflerText-Black" family="Hoefler Text" pointSize="24"/>
                                 <color key="textColor" red="1" green="1" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yfA-zr-Nyk">
-                                <rect key="frame" x="143" y="180" width="130" height="130"/>
+                                <rect key="frame" x="124" y="180" width="130" height="130"/>
                                 <state key="normal" image="play_again.png"/>
                                 <connections>
                                     <segue destination="BYZ-38-t0r" kind="show" id="Pdm-v4-Dzb"/>
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="backgroundColor" red="0.0" green="0.0" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina55"/>
                 </viewController>
